@@ -2,7 +2,7 @@
 ## ========== 1. learning_bash.sh ==========
 
 ### My learning philosophy: 
-1. Practice the syntax of the new language and test my understanding of it by putting it into various situations; 
+#### 1. Practice the syntax of the new language and test my understanding of it by putting it into various situations; 
 2. Integrate what I have leant with the new piece I'm learning to improve my understanding and view of the new language; 
 3. Compare with other languages I have learnt and try to solve some similar problems encountered before with the new language.
 
