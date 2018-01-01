@@ -11,7 +11,7 @@
 2. Through writing codes and testing of them, take good notes of the new language; 
 3. Form my own syntax library of the new language for future review.
 
-*
+**
 ======== 2. 
 
 ======== 3. 
