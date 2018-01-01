@@ -10,7 +10,9 @@
 3. Compare with other languages I have learnt and try to solve some similar problems encountered before with the new language.
 
 ### My goals: 
-1. Be familiar with and try to master the new language; 2. Through writing codes and testing of them, take good notes of the new language; 3. Form my own syntax library of the new language for future review.
+1. Be familiar with and try to master the new language; 
+2. Through writing codes and testing of them, take good notes of the new language; 
+3. Form my own syntax library of the new language for future review.
 
 
 In learning_bash.sh, these are the codes I wrote when I was learning the basics of bash. I put what I learnt from tutorials, webpages
