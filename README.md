@@ -1,5 +1,5 @@
 # Practicing_Bash
-## 1. learning_bash.sh
+## ========== 1. learning_bash.sh ==========
 
 ### My learning philosophy: 
 1. Practice the syntax of the new language and test my understanding of it by putting it into various situations; 
