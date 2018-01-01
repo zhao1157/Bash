@@ -11,13 +11,7 @@
 2. Through writing codes and testing of them, take good notes of the new language; 
 3. Form my own syntax library of the new language for future review.
 
-In learning_bash.sh, these are the codes I wrote when I was learning the basics of bash. I put what I learnt from tutorials, webpages
-
-
-
-
-
-
+****************************************** 
 ======== 2. 
 
 ======== 3. 
