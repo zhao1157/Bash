@@ -17,6 +17,9 @@
 This script is used to read all the scores from the grade sheets of a few quizzes, and give the right letter grades.
 ***
 
-## ======== 3. 
+## ======== 3. Combine_PIX/xcombine.sh ==========
+This script is to combine all the photoionization cross section data of all the transitions into a single file.
+
+***
 
 ## ======== 4. 
