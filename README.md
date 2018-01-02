@@ -13,7 +13,9 @@
 
 *** 
 
-## ======== 2. 
+## ======== 2. Generate_Letter_Grade/Process_Grade.sh ==========
+This script is used to read all the scores from the grade sheets of a few quizzes, and give the right letter grades.
+***
 
 ## ======== 3. 
 
