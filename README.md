@@ -13,16 +13,16 @@
 
 *** 
 
-## ======== 2. Generate_Letter_Grade/Process_Grade.sh ==========
+## ========== 2. Generate_Letter_Grade/Process_Grade.sh ==========
 This script is used to read all the scores from the grade sheets of a few quizzes, and give the right letter grades.
 ***
 
-## ======== 3. Combine_PIX/xcombine.sh ==========
+## ========== 3. Combine_PIX/xcombine.sh ==========
 This script is to combine all the photoionization cross section data of all the transitions into a single file.
 
 ***
 
-## ======== 4. Stg2_Core_e_SLP/{*} ==========
+## ========== 4. Stg2_Core_e_SLP/{*} ==========
 These scripts are what I used to create the input file for stg2 RM calculation.
 
 ***
