@@ -26,3 +26,8 @@ This script is to combine all the photoionization cross section data of all the 
 These scripts are what I used to create the input file for stg2 RM calculation.
 
 ***
+
+## ========== 5. Recupd_Core_2J_Pi/recupd_core_2j_p.sh ==========
+This script is used to create the input file for stage recupd in RM calculation
+
+***
