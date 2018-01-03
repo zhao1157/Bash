@@ -35,3 +35,7 @@ This script is used to create the input file for stage recupd in RM calculation
 These scripts are used to convert bound-bound FAC data into RM format.
 
 ***
+## ========== 7. Combine_BB_FAC_SS/{\*} ==========
+These scripts are sued to combine the bound-free FAC data of different transitions into one in RM format.
+
+***
