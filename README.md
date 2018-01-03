@@ -39,3 +39,11 @@ These scripts are used to convert bound-bound FAC data into RM format.
 These scripts are sued to combine the bound-free FAC data of different transitions into one in RM format.
 
 ***
+
+## ========== 8. Generate_PIX/{\*}
+This script is part of codes for generating the final p-file needed to calculate the opacity. The rest of codes can be found in the folder
+of the same name in reposities Python and Gawk.
+
+***
+
+
