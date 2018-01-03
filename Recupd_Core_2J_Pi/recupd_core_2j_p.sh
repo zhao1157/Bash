@@ -45,21 +45,3 @@ done
 printf '\n' >> ${outfile}
 
 sed -n 7,27p ${recupd_org} >> ${outfile}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
