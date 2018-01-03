@@ -22,4 +22,7 @@ This script is to combine all the photoionization cross section data of all the 
 
 ***
 
-## ======== 4. 
+## ======== 4. Stg2_Core_e_SLP/{*} ==========
+These scripts are what I used to create the input file for stg2 RM calculation.
+
+***
