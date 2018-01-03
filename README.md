@@ -1,5 +1,5 @@
 # Bash
-## ========== 1. Learning_Bash/learning_bash.sh ==========
+## ========== 1. Learning_Bash/learning_bash.sh
 
 ### My learning philosophy: 
 1. Practice the syntax of the new language and test my understanding of it by putting it into various situations; 
@@ -13,29 +13,29 @@
 
 *** 
 
-## ========== 2. Generate_Letter_Grade/Process_Grade.sh ==========
+## ========== 2. Generate_Letter_Grade/Process_Grade.sh
 This script is used to read all the scores from the grade sheets of a few quizzes, and give the right letter grades.
 ***
 
-## ========== 3. Combine_PIX/xcombine.sh ==========
+## ========== 3. Combine_PIX/xcombine.sh
 This script is to combine all the photoionization cross section data of all the transitions into a single file.
 
 ***
 
-## ========== 4. Stg2_Core_e_SLP/{\*} ==========
+## ========== 4. Stg2_Core_e_SLP/{\*}
 These scripts are what I used to create the input file for stg2 RM calculation.
 
 ***
 
-## ========== 5. Recupd_Core_2J_Pi/recupd_core_2j_p.sh ==========
+## ========== 5. Recupd_Core_2J_Pi/recupd_core_2j_p.sh
 This script is used to create the input file for stage recupd in RM calculation
 
 ***
-## ========== 6. BB_FAC_SS/{\*} ==========
+## ========== 6. BB_FAC_SS/{\*}
 These scripts are used to convert bound-bound FAC data into RM format.
 
 ***
-## ========== 7. Combine_BB_FAC_SS/{\*} ==========
+## ========== 7. Combine_BB_FAC_SS/{\*}
 These scripts are sued to combine the bound-free FAC data of different transitions into one in RM format.
 
 ***
