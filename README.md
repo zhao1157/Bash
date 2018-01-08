@@ -13,8 +13,10 @@
 
 *** 
 
-## ========== 2. Generate_Letter_Grade/Process_Grade.sh
-This script is used to read all the scores from the grade sheets of a few quizzes, and give the right letter grades.
+## ========== 2. Generate_Letter_Grade/{\*}
+This script is used to read all the scores from the grade sheets of a few quizzes, and give the right letter grades. In the folder you
+can also find a screenshot of grades sample.
+
 ***
 
 ## ========== 3. Combine_PIX/xcombine.sh
